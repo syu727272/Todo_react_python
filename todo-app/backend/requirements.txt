@@ -3,3 +3,7 @@ uvicorn==0.24.0
 sqlalchemy==2.0.23
 pydantic==2.5.2
 python-dotenv==1.0.0
+fastapi==0.103.1
+pydantic==2.3.0
+sqlalchemy==2.0.20
+uvicorn==0.23.2
